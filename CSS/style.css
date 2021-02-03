@@ -535,7 +535,7 @@ form {
 @media(max-width:767px){
   
     nav > ul{
-    padding:30px 0 
+    padding:30px 10px 
     }
 }
 @media(max-width:620px){
